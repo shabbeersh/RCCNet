@@ -26,7 +26,7 @@ Tensorflow-gpu >= 1.2
 Dataset:
 In this research, we have used a publicly available routine colon cancer dataset. The dataset is available at https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe. 
 
-To extract the cells of dimensions 32x32x3, please use the file ColonCancerPatchExtraction.m
+To extract the cells of dimensions 32x32x3, please use the matlab code with file name ColonCancerPatchExtraction.m
 
 ## Acknowledgements
 The few blocks of code are taken from [here](https://github.com/geifmany/cifar-vgg).
