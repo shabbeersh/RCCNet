@@ -24,7 +24,7 @@ Keras >= 2.1.2 <br/>
 Tensorflow-gpu >= 1.2
 
 Dataset:
-In this research, we have used a publicly available routine colon cancer dataset. The dataset is available at https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe. 
+In this research, we have used a publicly available routine colon cancer dataset which is downloadble at https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe. 
 
 To extract the cells of dimensions 32x32x3, please use the matlab code with file name ColonCancerPatchExtraction.m
 
