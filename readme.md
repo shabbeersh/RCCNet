@@ -23,6 +23,11 @@ For more details, please read our [paper](https://arxiv.org/abs/1810.02797).
 Keras >= 2.1.2 <br/>
 Tensorflow-gpu >= 1.2
 
+Dataset:
+In this research, we have used a publicly available routine colon cancer dataset. The dataset is available at https://warwick.ac.uk/fac/sci/dcs/research/tia/data/crchistolabelednucleihe. 
+
+To extract the cells of dimensions 32x32x3, please use the file ColonCancerPatchExtraction.m
+
 ## Acknowledgements
 The few blocks of code are taken from [here](https://github.com/geifmany/cifar-vgg).
 
