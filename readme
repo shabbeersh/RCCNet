@@ -15,4 +15,4 @@ achieved a classification accuracy of 80.61% and 0.7887 weighted average F1 scor
 generalized terms of the training time and data over-fitting, respectively.
 
 The overview of RCCNet is shown in the below figure.
-![alt text](https://github.com/shabbeersh/Impact-of-FC-layers/blob/master/Impact_FC_layers_CNN.png)
+![alt text](https://github.com/shabbeersh/RCCNet/blob/master/RCCNet.png)
