@@ -1,4 +1,3 @@
-import keras
 from keras.models import Model, Sequential
 from keras.layers import Dense, Dropout, Flatten, Input, AveragePooling2D, merge,Conv2D,MaxPooling2D,BatchNormalization,Concatenate
 from keras.optimizers import Adam
