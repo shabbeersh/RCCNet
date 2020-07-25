@@ -7,7 +7,7 @@ from keras.applications.imagenet_utils import preprocess_input
 from keras.layers import Dense, Dropout, Activation, Flatten, Conv2D, MaxPooling2D, BatchNormalization,merge,Input
 from keras.models import Model
 from keras.models import Sequential
-    from keras.utils import np_utils
+from keras.utils import np_utils
 import re
 from sklearn.cross_validation import train_test_split
 from sklearn.utils import shuffle
